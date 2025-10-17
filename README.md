@@ -143,14 +143,3 @@ mob-blog/
 | `ALLOWED_HOSTS` | Liste d’hôtes autorisés                        |
 | `DATABASE_URL`  | URL de la base de données PostgreSQL ou SQLite |
 
----
-
-## 📝 License
-
-Ce projet est open-source et sous licence MIT.
-
----
-
-Si tu veux, je peux également te créer **une version “GitHub Ready” avec badges** (build, coverage, Python version) et une **section “Contribution”** pour rendre ton dépôt plus pro et attractif pour un recruteur.
-
-Veux‑tu que je fasse ça ?
